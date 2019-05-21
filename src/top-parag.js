@@ -1,9 +1,11 @@
 import React from 'react'
 
-const TopParag = (props) => 
-     props.para.map((el, i) => (
+const TopParag = (props) => {
+    return(<div className="row">
+     {props.para.map((el, i) => (
         <p className="col-lg-5 col-sm-12" key={i}>{el.p}</p>)
-    )
+    )} </div>)
+}
 
 
 export default TopParag

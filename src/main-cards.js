@@ -16,8 +16,8 @@ const MainCards = () => {
                 slct : "",
                 opt : "",
                 img : "https://www.docplanner.com/img/screen-saas@2x.png" }]
-    return (<div className="container ">
-        <div className="row justify-content-around">
+    return (<div>
+        <div className="container">
         <GbCard crd={crds} />
         </div>
     </div>)

@@ -14,9 +14,12 @@ margin-bottom: 20px;
 
 .card1-bg{
     background-color: #33b39b ! important;
+    margin-bottom: 20px;
 }
 .card2-bg{
     background-color:#3D83DF !important;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 .flags-bg{
@@ -39,7 +42,8 @@ margin-bottom: 20px;
 .flags{
     display: flex;
     justify-content: space-around;
-
+    width: 47% !important;
+    height: 35% !important;
 }
 
 .flag-left{
@@ -48,7 +52,7 @@ margin-bottom: 20px;
 }
 .flag-right{
     margin-top: 10px;
-    height: 41%;
+    height: 100%;
 
 }
 
@@ -91,7 +95,9 @@ select {
     padding: 56px 0px;
 
 }
-
+.nav-bar1{
+    width: 70%;
+}
 .lower-styles{
     width: 50% !important;
 }

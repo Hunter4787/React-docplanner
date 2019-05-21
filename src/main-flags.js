@@ -42,7 +42,7 @@ const MainFlags = () => {
                 </p>
                         <img src={require('./Capture-bg.png')} alt="doc logo" />
                     </div>
-                    <div className="flags row col-lg-6 col-sm-12">
+                    <div className="d-flex justify-content-around col-lg-6 col-sm-12">
                         <Flags flg={flags} />
 
                     </div>

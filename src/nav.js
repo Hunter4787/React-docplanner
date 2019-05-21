@@ -34,7 +34,7 @@ export default class Navdoc extends React.Component {
                 <div className="container-fluid fixed-top">
                     <Navbar className="row" color="light" light expand="md">
 
-                        <NavbarBrand href="/">
+                        <NavbarBrand className=" nav-bar1" href="/">
                             <img className="img-fluid"
                                 src="https://www.docplanner.com/img/logo-default-group-en.svg?v=1" width=" 35%"
                                 alt="Docplanner Group" />

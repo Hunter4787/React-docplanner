@@ -13,8 +13,8 @@ const TitleTop = () => {
         <h1 className="text-doc">
             Making the healthcare experience more human
                 </h1>
-        <div className="container paragraphes">
-            <div className="row text-secondary text-left parag-top">
+        <div className="paragraphes">
+            <div className="text-secondary text-left parag-top">
                  <TopParag para={par} />
             </div>
         </div>
