@@ -1,0 +1,141 @@
+/*doc css*/
+.space{
+    margin-top: 100px;
+}
+.cards-img{
+    margin: 66%;
+    width:193%;
+}
+
+.btn-primary{
+margin-bottom: 20px;
+
+}
+
+.card1-bg{
+    background-color: #33b39b ! important;
+}
+.card2-bg{
+    background-color:#3D83DF !important;
+}
+
+.flags-bg{
+    background-color: #d9f6f5;
+    height: 600px;
+}
+.mid-flag{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-color{
+    color: #96e2b1;
+}
+.flag-styles{
+    width: 20%;
+    height: 198px;
+}
+.flags{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.flag-left{
+    margin-top: 40px;
+    
+}
+.flag-right{
+    margin-top: 10px;
+    height: 41%;
+
+}
+
+.paragraphes {
+    padding: 91px 0px;
+}
+.hide-img{
+    overflow: hidden;
+}
+nav{
+background-color:  rgba(255, 255, 255, 0.98);
+opacity: 0.9;
+}
+path:hover{
+ fill:#33b39b;
+}
+.logo-mid {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+.logo-espacement *{
+    padding: 0px 0px 0px 30px;
+    fill: #c4c4c4;
+}
+.text-doc{
+    color: #33b39b;
+}
+.marg-img{
+    margin-left: 40%;
+}
+
+select {
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.bloc-company{
+    padding: 56px 0px;
+
+}
+
+.lower-styles{
+    width: 50% !important;
+}
+.img-fluid {
+    max-width: 168%;
+    height: auto;
+}
+main{
+    padding: 78px 0px;
+
+}
+.col-lg-6{
+    max-width: 47% !important;
+}
+@media only screen and (max-width:800px){
+
+ main{
+    padding: 81px 0px;
+
+ }
+
+ .office-bottom{
+     display: flex;
+     flex-direction: column;
+     margin: 10px auto;
+ }
+
+}  
+.hover-nav:hover{
+   color: #33b39b!important;
+}
+@media only screen and (max-width:990px){
+    .parag-top{
+        padding: 25px 0px;
+    }
+    .card-space
+    {margin: 10px 0px;}
+  }  
+ 
+  
+.dltslct{
+    display: none;
+}
+
+.right-card-img{
+    margin-right: 0; 
+}
